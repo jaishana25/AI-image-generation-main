@@ -47,12 +47,10 @@ CLIENT_URL
 ```
 ## Demo
 
-[Live Demo](https://pixelai.vercel.app/) 😎
+[Live Demo](https://pixelai.vercel.app/) 
 
 
-## Screenshots
 
-![App Screenshot](./pixelai.png)
 
 
 ## Tech Stack
