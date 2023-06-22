@@ -60,9 +60,6 @@ CLIENT_URL
 **Server:** Node, Express, MongoDB
 
 
-## Feedback
-
-If you have any feedback, please reach out to us at guiller.zeva16@gmail.com
 
 
 ## License
